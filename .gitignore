@@ -1,0 +1,25 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+vue3/node_modules
+vue3/package.json
+vue3/public/media/flags
+vue3/public/media/misc
+vue3/public/media/product-demos
+vue3/public/media/product
+vue3/public/media/stokc
+laravel8/vendor
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
